@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **nastyrose/nastyrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I love researching and devloping OSS. Currently intreseted in and learning ML/DL.
+
+### Profiles
+<a href="https://stackexchange.com/users/17507298/momo"><img src="https://stackexchange.com/users/flair/17507298.png" width="208" height="58" alt="profile for Momo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Momo on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+### Contact
+lo3me@proton.me
